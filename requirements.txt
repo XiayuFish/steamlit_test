@@ -2,3 +2,14 @@ streamlit
 pandas
 seaborn
 matplotlib.pyplot
+webdriver
+Service
+ChromeDriverManager
+Select
+By
+requests
+time
+csv, json
+pymysql
+BeautifulSoup
+pandas
